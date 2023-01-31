@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto 02 - Explorer </h1>
+<h1 align="center"> Projeto 02 (Stage 2) - Explorer </h1>
 
 <p align="center">
 Desafio exclusivo promovido pela Rockeseat 🚀
@@ -7,7 +7,7 @@ Desafio exclusivo promovido pela Rockeseat 🚀
 </br>
 
 <p align = "center">
-<img src="https://i.imgur.com/ZumTo36.png"/>
+<img src="https://i.imgur.com/ls1MOrc.png"/>
 </p>
 
 <br>
@@ -25,10 +25,10 @@ Tecnologias envolvidas no projeto:
 ## 💻 Projeto
 
 <p align="justify">
-O objetivo do projeto 02 era realizar a construção de uma página a partir de um layout disponibilizado no Figma.
+O objetivo do projeto 02 era realizar a réplica de uma página a partir de um layout disponibilizado no Figma.
 </p>
 
-- Acesse o [projeto finalizado](https://pedro-suassuna.github.io/Projeto5_LandPage01/) de forma online
+- Acesse o [projeto finalizado](https://pedro-suassuna.github.io/Projeto6_LandPage02_Explorer) de forma online
 
 <br>
 
@@ -43,6 +43,6 @@ O objetivo do projeto 02 era realizar a construção de uma página a partir de 
 <br/>
 
 ## 🔖 Layout
-Layout base para o projeto -> [🖥️](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Stage-01).
+Layout base para o projeto -> [🖥️](https://www.figma.com/file/ZnO5x6Jg9Lxp6DzeBr37NC/Projeto01-Extra-Copy?fuid=1126211806476029786).
 <br>
 <i>OBS:</i> É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
